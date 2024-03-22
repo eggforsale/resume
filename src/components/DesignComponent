@@ -1,0 +1,7 @@
+ function DesignComponent({ children }) {
+  return (
+    <div className="design-component">
+      {children}
+    </div>
+  );
+}
